@@ -1,0 +1,1 @@
+# shiftjis-check
